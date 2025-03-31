@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aarya Shah</h1>
+<h1 align="center">Hi 👋, I'm Aarya </h1>
 <h3 align="center">I'm passionate about technology and love contributing.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaarya" alt="theaarya" /></a> </p>
