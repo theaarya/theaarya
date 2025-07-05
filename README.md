@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aarya Shah</h1>
 <h3 align="center">I'm passionate about technology and love contributing.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaarya&show_icons=true&locale=en&layout=compact" alt="theaarya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaarya&show_icons=true&locale=en&layout=compact" alt="theaarya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaarya&show_icons=true&locale=en" alt="theaarya" /></p>
 
