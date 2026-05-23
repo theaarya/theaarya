@@ -1,23 +1,34 @@
+```text
+╔══════════════════════════════════════════════╗
+║  AARYA SHAH · everything ai                  ║
+╚══════════════════════════════════════════════╝
+```
 
-<h1 align="center">Hi 👋, I'm Aarya Shah</h1>
-<h3 align="center">I'm passionate about technology and love contributing.</h3>
+> turning messy operations into reliable product infrastructure.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaarya&show_icons=true&locale=en&layout=compact" alt="theaarya" /></p>
+```text
+┌─ focus ──────────────────────────────────────┐
+│ ai ops · automation · internal agent infra   │
+└──────────────────────────────────────────────┘
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaarya&show_icons=true&locale=en" alt="theaarya" /></p>
+<pre>
+┌─ work ───────────────────────────────────────┐
+│ → <a href="https://www.videosdk.live/blog/namo-turn-detection-v1-semantic-turn-detection-for-ai-voice-agents">namo turn detector</a> · semantic eou          │
+│ → <a href="https://github.com/videosdk-live/agents">videosdk agents</a> · oss voice infra          │
+│ → automation control plane · tutero ops      │
+│ → <a href="https://github.com/theaarya/Gemma">gemma</a> · rag for diamond marketplace        │
+│ → <a href="https://github.com/theaarya/vox">vox</a> · persona voicebot                     │
+└──────────────────────────────────────────────┘
+</pre>
 
-<!--
-## Hi there 👋
-**theaarya/theaarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+┌─ stack ──────────────────────────────────────┐
+│ python · typescript · go · dart / flutter    │
+│ make · n8n · stripe · firestore · snowflake  │
+│ openai · groq · whisper · elevenlabs · sip   │
+│ faiss · bert · huggingface · twilio · slack  │
+└──────────────────────────────────────────────┘
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ **[theaarya.github.io](https://theaarya.github.io)** · [linkedin](https://linkedin.com/in/aaryas) · adshah15@outlook.in
