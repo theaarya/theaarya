@@ -31,4 +31,4 @@
 └──────────────────────────────────────────────┘
 ```
 
-→ **[theaarya.github.io](https://theaarya.github.io)** · [linkedin](https://linkedin.com/in/aaryas) · adshah15@outlook.in
+→ **[aaryashah.dev](https://aaryashah.dev)** · [linkedin](https://linkedin.com/in/aaryas) · hello@aaryashah.dev
